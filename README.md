@@ -21,8 +21,13 @@ this is a sample file, now minifierwill minify it to one string , to make_list i
 ```
 
 ## setting up on local machine
-run `cargo build`
-run `cargo rub minify sample.txt`
+run 
+```
+cargo build
+```
+run ```
+cargo rub minify sample.txt
+```
 
 ## more commands
 `cargo run destroy sample.txt`
