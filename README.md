@@ -25,11 +25,18 @@ run
 ```
 cargo build
 ```
-run ```
+run
+```
 cargo rub minify sample.txt
 ```
 
 ## more commands
-`cargo run destroy sample.txt`
-`cargo run empty sample.txt`
-`cargo run read sample.txt`
+```
+cargo run destroy sample.txt
+```
+```
+cargo run empty sample.txt
+```
+```
+cargo run read sample.txt
+```
